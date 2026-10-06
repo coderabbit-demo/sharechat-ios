@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "post_id": "p_1001",
+      "author": { "id": "u_501", "handle": "priya_sings", "avatar_url": "https://cdn.sharechat.example/a/u_501.jpg" },
+      "media": { "type": "video", "url": "https://cdn.sharechat.example/v/p_1001.mp4", "duration_ms": 31000 },
+      "caption": "Navratri garba 💃",
+      "language": "hi",
+      "like_count": 1240000,
+      "created_at": "2026-10-05T18:30:00Z"
+    }
+  ],
+  "next_cursor": "1"
+}
